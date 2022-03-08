@@ -8,3 +8,4 @@ eleventyNavigation:
 ## Greetings!
 
 Welcome to my site!
+33 years ago, in a small town in Northen B.C on January 27th, 1989!
