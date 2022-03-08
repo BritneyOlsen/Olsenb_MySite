@@ -1,8 +1,8 @@
 ---
-title: Film Review
+title: About Me
 layout: layout.html
 eleventyNavigation:
-    key: Reviews
+    key: About
 ---
 # {{ title }}
-Film Reviews
+About Me!
